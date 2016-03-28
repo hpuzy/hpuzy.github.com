@@ -1,1 +1,167 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<title>简历预览</title>
+<link rel="stylesheet" type="text/css" href="http://img00.zhaopin.cn/2012/css/reset.min.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://i.zhaopin.com/Content/css/resume_preview.css" media="all" />
+</head>
+<body>
+<div class="resumeBody">
+  <div class="summary">
+    <h1>张岩</h1>男<span class="ver-line">|</span>未婚<span class="ver-line">|</span>1990年2月生<span class="ver-line">|</span>户口：河南-郑州<span class="ver-line">|</span>现居住于:北京<br />
+    2年工作经验<span class="ver-line">|</span>团员
+    <p>15238619970</p>
+    <p>E-mail：<a href="mailto:476389320@qq.com">476389320@qq.com</a></p>
+  </div>
+  <dl class="details">
+    <dt><h5>求职意向</h5></dt>
+    <dd>
+      <ul>
+        <li><strong>工作性质：</strong>全职</li>
+        <li><strong>期望职业：</strong>WEB前端开发、</li>
+        <li><strong>期望行业：</strong>其他、互联网/电子商务</li>
+        <li><strong>工作地区：</strong>北京</li>
+        <li><strong>期望月薪：</strong>面议</li>
+        <li><strong>目前状况：</strong>我目前处于离职状态，可立即上岗</li>
+      </ul>
+    </dd>
+    <dt><h5>自我评价</h5></dt>
+    <dd>
+      <p style="width:574px; overflow:hidden;word-break: break-all; word-wrap:break-word;">熟练ps切图，html，div+css页面排版，有一定的游览器兼容性解决经验。<br/>
+        熟练javascript，jquery ，jquery/原生插件，能完成页面效果开发。 <br/>
+        熟练通过chrome，ff等调试工具来调试代码。 <br/>
+        熟悉W3C标准，对表现与数据分离，Web语义化等有一定的理解；<br/><br/>
+        能承受一定的工作压力；具备良好的沟通能力和团队合作精神。<br/>有较强的学习和沟通能力，做事严谨踏实、责任心强，条理清楚，乐观自信，有很好的适应能力和团队合作意识，能够独立完成任务。
+      </p>
+    </dd>
+    <dt><h5>工作经历</h5></dt>
+    <dd>
+      <div class="work-experience">
+        <p>2015/03 -- 2016/03</p>
+        <h6>北京紫藤易达信息技术有限公司<span class="ver-line">|</span>Web前端开发</h6>
+        <p>
+          <span> 行业类别： 互联网/电子商务</span>
+          <span>
+            <span class="ver-line">|</span>企业性质：民营
+          </span>
+          <span>
+            <span class="ver-line">|</span>规模：20-99人
+          </span>
+          <span><span class="ver-line">|</span>职位月薪：8001-10000元/月
+        </span>
+      </p>
+      <p>
+        <strong>工作描述：</strong><br />
+        负责参与Web应用的设计与开发初期的探讨；<br/>
+        负责平台web手机端以及pc端页面的开发以及维护工作；<br/>
+        负责Web前端js/jquery的开发与维护；<br/>
+        负责一定的Html/css代码质量控制；<br/>
+        负责部分html5页面开发；<br/><br/>
+        设计到的技术主要有html/css/javascript/html5/css3/jquery
+      </p>
+    </div>
+    <div class="work-experience">
+      <p>2014/07 -- 2015/02</p>
+      <h6>河南大帑企业管理咨询有限公司<span class="ver-line">|</span>web前端开发</h6>
+      <p>
+        <span>行业类别： 基金/证券/期货/投资</span>
+        <span>
+          <span class="ver-line">|</span>职位月薪：2001-4000元/月
+        </span>
+      </p>
+      <p>
+        <strong>工作描述：</strong><br />
+        负责参与Web应用的设计与开发初期的探讨；<br/>
+        负责平台pc端页面的开发以及维护工作；<br/>
+        负责Web前端js的开发与维护；<br/>
+        负责部分的Html/css代码质量控制；<br/><br/>
+        主要涉及的技术：html/css/javascript
+      </p>
+    </div>
+  </dd>
+  <dt><h5>项目经验</h5></dt>
+  <dd>
+    <div class="project-experience">
+      <p>2015/07 -- 2016/03</p>
+      <h6>微信企业号应用开发</h6>
+      <div>
+        <p>
+          <strong>责任描述：</strong><br />
+          负责将美工的设计图实现成页面；<br/>
+          负责将页面涉及到的交互用实现，<br/>
+          负责并参与后期的修改等；<br/>
+          主要涉及技术有html/css/html5/css3/javascript/jquery
+        </p>
+        <p>
+          <strong>项目简介：</strong><br />
+          企业号主要功能是将企业内部的员工，考勤，就餐，考试等实现全面涉及，方面企业的各方面的管理等
+        </p>
+      </div>
+      <div class="project-experience">
+        <p>2014/12 -- 2015/02</p>
+        <h6>金港之家p2p平台</h6>
+        <div>
+          <p>
+            <strong>责任描述：</strong><br />
+            负责将设计的psd文件实现为html页面；<br/>
+            负责实现页面交互及动效的实现；<br/>
+            负责兼容ie8+及其他游览器；<br/>
+            主要涉及的技术有，html/css/javascript
+          </p>
+          <p>
+            <strong>项目简介：</strong><br />金港之家是p2p第三方平台，主要从事股指期货，金融开户，信托，基金等服务的第三方理财平台，励志打造一款老百姓的理财平台专家。<br/><br/>http://www.147d.com/
+          </p>
+        </div>
+        <div class="project-experience">
+          <p>2014/09 -- 2014/11</p>
+          <h6>网页直播室</h6>
+          <div>
+            <p>
+              <strong>责任描述：</strong><br />
+              pc端页面开发（兼容到ie8），js开发；
+            </p>
+            <p>
+              <strong>项目简介：</strong><br />
+              该项目为贵金属喊单网页直播室的开发项目。该系统主要为客户提供股指期货在线指导，喊单等服务；开发时页面设计了大量iframe元素，设计大量本地跨域问题，最终都已解决<br/><br/>
+              http://video.147g.com/
+            </p>
+          </div>
+        </dd>
+        <dt><h5>教育经历</h5></dt>
+        <dd>
+          <div class="education-background">
+            <p>2010/09 -- 2014/06</p>
+            <h6>河南理工大学<span class="ver-line">|</span>网络工程<span class="ver-line">|</span>本科<span class="ver-line">|</span>统招</h6>
+          </div>
+        </dd>
+        <dt><h5>语言能力</h5></dt>
+        <dd>
+          <div class="language-skill">
+            英语<span>：读写能力一般<span class="ver-line">|</span> 听说能力一般</span>
+          </div>
+        </dd>
+        <dt><h5>专业技能</h5></dt>
+        <dd>
+          <div class="professional-skill">
+            html，div+css<span class="ver-line">|</span>精通<span class="ver-line">|</span>24
+          </div>
+        </dd>
+        <dd>
+          <div class="professional-skill">
+            javascript，jquery<span class="ver-line">|</span>熟练<span class="ver-line">|</span>24
+          </div>
+        </dd>
+        <dd>
+          <div class="professional-skill">
+            sublime,photoshop<span class="ver-line">|</span>熟练<span class="ver-line">|</span>24
+          </div>
+        </dd>
+        <dt><h5>兴趣爱好</h5></dt>
+        <dd>
+          <p>动漫，漫画，小说</p>
+        </dd>
+      </dl>
+      <input id="neturlparam" type="hidden" value="AppId=1&Id=632210502&Timestamp=1458888969&Callback=&signature=93DA39FE3156F1FCD86FA8051F776DA6" />
+    </div>
+</body>
+</html>
